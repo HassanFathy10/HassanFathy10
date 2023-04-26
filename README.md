@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanfathy10&label=Profile%20views&color=0e75b6&style=flat" alt="hassanfathy10" /> </p>
 
-- 🔭 I’m currently working on **Reactjs website Responsive and my new portfolio .**
+- 🔭 I’m currently working on **Reactjs website Responsive .**
 
 - 🌱 I’m currently learning **React.js .**
 
