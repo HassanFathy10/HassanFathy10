@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=HassanFathy10&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="hassanfathy10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanfathy10&show_icons=true&locale=en" alt="hassanfathy10" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanFathy10&theme=dark&hide_border=false" alt="hassanfathy10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanfathy10&" alt="hassanfathy10" /></p>
